@@ -1,0 +1,237 @@
+﻿meal,ingredient,group_members,satisfaction,relevance,relevance_score_type,overall,leaf
+omlet,eggs,,70,1,impact,80,1
+omlet,salt,,95,70,impact,80,1
+omlet,vegetable oil,,80,75,impact,80,1
+omlet,filling,,70,20,impact,80,
+omlet,filling,ham,70,25,proportion,80,
+omlet,filling,cheese,80,50,proportion,80,
+omlet,filling,mushrooms,50,10,proportion,80,1
+omlet,filling,tomatoes,60,10,proportion,80,1
+omlet,filling,bell peppers,75,5,proportion,80,1
+omlet,sides,,80,55,impact,80,
+omlet,sides,toast,80,20,proportion,80,
+omlet,sides,hash browns,85,20,proportion,80,
+omlet,sides,coleslaw,70,20,proportion,80,
+omlet,sides,bacon,85,40,proportion,80,
+waffles,eggs,,75,50,impact,75,
+waffles,flour,,60,1,impact,75,1
+waffles,milk,,80,70,impact,75,1
+waffles,vegetable oil,,80,70,impact,75,1
+waffles,sugar,,80,65,impact,75,1
+waffles,baking powder,,80,60,impact,75,1
+waffles,salt,,80,65,impact,75,1
+waffles,vanilla,,70,65,impact,75,1
+waffles,toppings,,75,40,impact,75,
+waffles,toppings,blueberries,75,33,proportion,75,1
+waffles,toppings,strawberries,65,33,proportion,75,1
+waffles,toppings,chocolate chips,70,33,proportion,75,
+waffles,sides,,80,50,impact,75,
+waffles,sides,toast,80,20,proportion,75,
+waffles,sides,hash browns,85,20,proportion,75,
+waffles,sides,coleslaw,70,20,proportion,75,
+waffles,sides,bacon,85,40,proportion,75,
+traditional platter,eggs,,80,40,impact,85,1
+traditional platter,sausage,,70,40,impact,85,
+traditional platter,sides,,80,50,impact,85,
+traditional platter,sides,toast,80,40,proportion,85,
+traditional platter,sides,hash browns,85,20,proportion,85,
+traditional platter,sides,coleslaw,70,20,proportion,85,
+traditional platter,sides,bacon,85,40,proportion,85,
+chocolate chips,cocoa,,70,10,impact,75,1
+chocolate chips,soy lecithin,,75,20,impact,75,1
+chocolate chips,sugar,,75,30,impact,75,1
+chocolate chips,vanilla,,75,60,impact,75,1
+chocolate chips,milk,,75,50,impact,75,1
+coleslaw,cabbage,,65,30,impact,65,1
+coleslaw,mayonaise,,65,40,impact,65,
+coleslaw,carrots,,65,50,impact,65,1
+coleslaw,vinegar,,65,50,impact,65,1
+coleslaw,sugar,,65,60,impact,65,1
+sausage,pork,,75,5,impact,75,1
+sausage,salt,,75,50,impact,75,1
+sausage,pepper,,75,60,impact,75,1
+sausage,sugar,,75,70,impact,75,1
+sausage,vegetable oil,,75,50,impact,75,1
+sausage,sage,,75,60,impact,75,1
+sausage,thyme,,75,60,impact,75,1
+sausage,nutmeg,,75,60,impact,75,1
+sausage,rosemary,,75,60,impact,75,1
+bacon,pork,,85,1,impact,85,1
+bacon,salt,,85,60,impact,85,1
+bacon,celery powder,,85,65,impact,85,1
+bacon,sodium nitrite,,85,65,impact,85,1
+ham,pork,,60,1,impact,60,1
+ham,vinegar,,60,40,impact,60,1
+ham,sugar,,60,50,impact,60,1
+ham,salt,,60,20,impact,60,1
+ham,sodium nitrite,,60,55,impact,60,1
+hash browns,potatoes,,78,1,impact,78,1
+hash browns,vegetable oil,,78,30,impact,78,1
+hash browns,salt,,78,40,impact,78,1
+toast,flour,,65,1,impact,65,1
+toast,gluten,,65,55,impact,65,1
+toast,vegetable oil,,65,55,impact,65,1
+toast,yeast,,65,20,impact,65,1
+toast,sugar,,65,45,impact,65,1
+toast,butter,,65,50,impact,65,
+toast,salt,,65,55,impact,65,1
+butter,cream,,80,1,impact,80,1
+butter,salt,,80,50,impact,80,1
+beverage,coffee,,70,35,impact,75,1
+beverage,tea,,60,70,impact,75,1
+beverage,orange juice,,75,55,impact,75,1
+beverage,soda,,80,55,impact,75,1
+beverage,iced tea,,75,60,impact,75,1
+mayonaise,eggs,,70,20,impact,70,1
+mayonaise,vegetable oil,,70,50,impact,70,1
+mayonaise,salt,,70,55,impact,70,1
+mayonaise,lemon juice,,70,60,impact,70,1
+cheese,milk,,75,1,impact,75,1
+cheese,enzymes,,75,20,impact,75,1
+cheese,salt,,75,50,impact,75,1
+cheese,microbial cultures,,75,10,impact,75,1
+bun,flour,,65,1,impact,65,1
+bun,gluten,,65,55,impact,65,1
+bun,vegetable oil,,65,55,impact,65,1
+bun,yeast,,65,20,impact,65,1
+bun,sugar,,65,45,impact,65,1
+bun,butter,,65,50,impact,65,
+bun,salt,,65,55,impact,65,1
+burger,beef,,80,1,impact,80,1
+burger,bun,,80,15,impact,80,
+burger,french fries,,80,50,impact,80,
+burger,additions,,80,60,impact,80,
+burger,additions,cheese,80,50,proportion,80,
+burger,additions,onions,80,20,proportion,80,1
+burger,additions,pickles,80,10,proportion,80,1
+burger,additions,tomatoes,80,20,proportion,80,1
+burger,condiments,,80,70,impact,80,
+burger,condiments,ketchup,80,50,proportion,80,
+burger,condiments,mustard,80,50,proportion,80,
+BLT,toast,,75,10,impact,75,
+BLT,bacon,,85,5,impact,75,
+BLT,lettuce,,80,60,impact,75,1
+BLT,tomato,,75,40,impact,75,1
+BLT,mayonaise,,75,50,impact,75,
+BLT,sides,,75,50,impact,75,
+BLT,sides,french fries,90,60,proportion,75,
+BLT,sides,salad,70,20,proportion,75,
+BLT,sides,mashed potatoes,75,20,proportion,75,
+chicken sandwich,chicken,,70,1,impact,70,1
+chicken sandwich,bun,,65,20,impact,70,
+chicken sandwich,french fries,,80,60,impact,70,
+chicken sandwich,additions,,70,60,impact,70,
+chicken sandwich,additions,cheese,70,30,proportion,70,
+chicken sandwich,additions,onions,70,30,proportion,70,1
+chicken sandwich,additions,pickles,65,10,proportion,70,1
+chicken sandwich,additions,tomatoes,75,30,proportion,70,1
+chicken sandwich,condiments,,70,65,impact,70,
+chicken sandwich,condiments,ketchup,70,50,proportion,70,
+chicken sandwich,condiments,mustard,70,50,proportion,70,
+fried chicken,chicken,,80,1,impact,83,1
+fried chicken,buttermilk,,80,70,impact,83,
+fried chicken,flour,,80,30,impact,83,1
+fried chicken,spices,,85,50,impact,83,
+fried chicken,spices,paprika,85,33,proportion,83,1
+fried chicken,spices,black pepper,85,33,proportion,83,1
+fried chicken,spices,salt,85,33,proportion,83,1
+fried chicken,vegetable oil,,75,5,impact,83,1
+fried chicken,french fries,,85,70,impact,83,
+fried chicken,condiments,,80,70,impact,83,
+fried chicken,condiments,ketchup,80,33,proportion,83,
+fried chicken,condiments,mustard,80,33,proportion,83,
+fried chicken,condiments,gravy,85,33,proportion,83,
+fried chicken,sides,,83,1,impact,83,
+fried chicken,sides,french fries,83,50,proportion,83,
+fried chicken,sides,salad,83,25,proportion,83,
+fried chicken,sides,mashed potatoes,83,25,proportion,83,
+nachos,corn chips,,75,1,impact,76,
+nachos,toppings,,76,20,impact,76,
+nachos,toppings,cheese,80,25,proportion,76,
+nachos,toppings,beans,76,10,proportion,76,1
+nachos,toppings,beef,76,15,proportion,76,1
+nachos,toppings,chicken,80,15,proportion,76,1
+nachos,toppings,jalapenos,80,15,proportion,76,1
+nachos,toppings,tomatoes,75,10,proportion,76,1
+nachos,toppings,cilantro,80,10,proportion,76,1
+nachos,spices,,76,50,impact,76,
+nachos,spices,cayenne pepper,76,10,proportion,76,1
+nachos,spices,salt,76,25,proportion,76,1
+nachos,spices,garlic,76,10,proportion,76,1
+nachos,spices,onion,75,10,proportion,76,1
+nachos,spices,cumin,76,10,proportion,76,1
+nachos,spices,oregano,76,10,proportion,76,1
+nachos,spices,black pepper,76,25,proportion,76,1
+tuna melt,toast,,75,20,impact,72,
+tuna melt,tuna,,70,1,impact,72,1
+tuna melt,mayonaise,,75,60,impact,72,
+tuna melt,butter,,70,60,impact,72,
+tuna melt,cheese,,75,60,impact,72,
+tuna melt,tomatoes,,70,65,impact,72,1
+tuna melt,seasoning,,75,50,impact,72,
+tuna melt,seasoning,lemon,70,10,proportion,72,1
+tuna melt,seasoning,celery,75,10,proportion,72,1
+tuna melt,seasoning,black pepper,70,20,proportion,72,1
+tuna melt,seasoning,salt,75,20,proportion,72,1
+tuna melt,seasoning,onions,70,20,proportion,72,1
+tuna melt,seasoning,pickles,75,10,proportion,72,1
+tuna melt,seasoning,parsley,70,10,proportion,72,1
+beverage,coffee,,70,35,impact,75,1
+beverage,tea,,60,70,impact,75,1
+beverage,orange juice,,75,55,impact,75,1
+beverage,soda,,80,55,impact,75,1
+beverage,iced tea,,75,60,impact,75,1
+beverage,beer,,75,25,impact,75,1
+french fries,potatoes,,65,1,impact,78,
+french fries,vegetable oil,,70,20,impact,78,
+french fries,salt,,80,20,impact,78,
+french fries,pepper,,65,70,impact,78,
+onion rings,onions,,70,1,impact,82,
+onion rings,vegetable oil,,80,20,impact,82,
+onion rings,flour,,65,50,impact,82,
+onion rings,baking powder,,70,60,impact,82,
+onion rings,salt,,80,60,impact,82,
+onion rings,milk,,65,60,impact,82,
+onion rings,eggs,,70,60,impact,82,
+onion rings,bread crumbs,,80,60,impact,82,
+onion rings,pepper,,65,60,impact,82,1
+milk shake,milk,,70,1,impact,84,1
+milk shake,ice cream,,80,20,impact,84,
+milk shake,sugar,,65,20,impact,84,1
+milk shake,cream,,70,60,impact,84,1
+mashed potatoes,potatoes,,80,1,impact,71,1
+mashed potatoes,salt,,65,50,impact,71,1
+mashed potatoes,butter,,70,40,impact,71,
+mashed potatoes,pepper,,80,65,impact,71,1
+gravy,chicken stock,,65,40,impact,80,1
+gravy,beef stock,,70,40,impact,80,1
+gravy,butter,,80,50,impact,80,
+gravy,flour,,65,65,impact,80,1
+gravy,onion powder,,70,65,impact,80,1
+gravy,black pepper,,80,65,impact,80,1
+salad,lettuce,,65,20,impact,70,1
+salad,tomatoes,,70,60,impact,70,1
+salad,vinegar,,80,60,impact,70,1
+salad,vegetable oil,,65,60,impact,70,1
+salad,lemon,,70,60,impact,70,1
+salad,salt,,80,60,impact,70,1
+salad,bell peppers,,70,60,impact,70,1
+ice cream,milk,,80,50,impact,80,1
+ice cream,cream,,80,50,impact,80,1
+ice cream,sugar,,80,50,impact,80,1
+bread crumbs,toast,,75,1,impact,75,
+ketchup,tomatoes,,75,1,impact,80,1
+ketchup,vinegar,,75,30,impact,80,1
+ketchup,sugar,,80,40,impact,80,1
+ketchup,salt,,80,50,impact,80,1
+mustard,vinegar,,75,40,impact,75,1
+mustard,mustard seed,,75,1,impact,75,1
+mustard,salt,,75,50,impact,75,1
+mustard,tumeric,,75,60,impact,75,1
+mustard,paprika,,75,60,impact,75,1
+mustard,garlic powder,,75,60,impact,75,1
+buttermilk,milk,,75,1,impact,80,1
+buttermilk,butter,,75,50,impact,80,
+corn chips,corn flour,,75,1,impact,75,1
+corn chips,salt,,75,55,impact,75,1
+corn chips,vegetable oil,,75,40,impact,75,1
